@@ -1,0 +1,8 @@
+{
+  "name": "blog-bot",
+  "env": {
+    "GITHUB_TOKEN": "@github-token",
+    "GITHUB_SECRET_TOKEN": "@github-secret-token",
+    "GITHUB_BOT_NAME": "@github-bot-name"
+  }
+}

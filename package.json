@@ -1,0 +1,28 @@
+{
+  "name": "blog-bot",
+  "private": true,
+  "description": "a toy bot to archive issues into repo",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "dependencies": {
+    "cryptiles": "^3.1.2",
+    "github": "^11.0.0",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.2.0"
+  },
+  "scripts": {
+    "start": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzilong/blog-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengzilong/blog-bot/issues"
+  },
+  "homepage": "https://github.com/fengzilong/blog-bot#readme"
+}
